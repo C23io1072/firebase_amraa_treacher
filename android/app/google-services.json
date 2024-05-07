@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042024546764",
+    "project_id": "fir-amraa-teacher",
+    "storage_bucket": "fir-amraa-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042024546764:android:650e039fd008d1a273dd69",
+        "android_client_info": {
+          "package_name": "com.example.my_firebase_amraa_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaQ1s16QO5dMiPwmYlfzjPmPOXbOpkw_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
